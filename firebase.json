@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "public",
+    "site":"muteriankelvin",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
+
